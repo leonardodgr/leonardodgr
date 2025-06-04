@@ -109,16 +109,15 @@ Estou utilizando tecnologias como TypeScrip, Next.js, Vue.js, Node.js, MySQL, Mo
 <br/>
 
 ### 📊 Estatísticas
-
-<p align="left">
+<!-- <p align="left">
   <img 
     height="200em" 
-    src="https://github-readme-stats.vercel.app/api?username=leonardodgr&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+    src="https://github-readme-stats.vercel.app/api?username=leonardodgr&show_icons=true&theme=tokyonight&locale=pt-br"
     alt="Estatísticas do GitHub de Leonardo"
-  />
+  /> -->
   <img 
     height="200em" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardodgr&layout=compact&langs_count=7&theme=tokyonight"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardodgr&layout=compact&langs_count=10&theme=tokyonight"
     alt="Linguagens mais usadas"
   />
 </p>
