@@ -5,8 +5,6 @@
 Olá! Sou Leonardo Gross, estudante de Análise e Desenvolvimento de Sistemas, técnico em Redes de Computadores e Desenvolvedor Web Jr.
 Estou utilizando tecnologias como TypeScrip, Next.js, Vue.js, Node.js, MySQL, MongoDB, Tailwind CSS e GSAP.
 
-💼 Focado em busca da minha primeira oportunidade formal na área de desenvolvimento, seja como estagiário ou desenvolvedor fullstack júnior. Tenho grande interesse em aprender, crescer profissionalmente e contribuir com projetos reais em equipe.
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leodev98/)
 [![YouTube](https://img.shields.io/badge/YouTube-red?logo=youtube&logoColor=white&style=for-the-badge)](https://www.youtube.com/@leonardogrossDev)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leonardorev98@gmail.com)
