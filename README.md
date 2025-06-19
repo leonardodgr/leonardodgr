@@ -2,8 +2,8 @@
 
 **`Desenvolvedor FullStack`**
 
-Olá! Sou Leonardo Gross, estudante de Análise e Desenvolvimento de Sistemas, técnico em Redes de Computadores e Desenvolvedor Web Jr.
-Estou utilizando tecnologias como TypeScrip, Next.js, Vue.js, Node.js, MySQL, MongoDB, Tailwind CSS e GSAP.
+Hello! I'm Leonardo Gross, a Systems Analysis and Development student, Computer Network technician and Junior Web Developer.
+I'm using technologies like TypeScript, Next.js, Vue.js, Node.js, MySQL, MongoDB, Tailwind CSS and GSAP.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leodev98/)
 [![YouTube](https://img.shields.io/badge/YouTube-red?logo=youtube&logoColor=white&style=for-the-badge)](https://www.youtube.com/@leonardogrossDev)
